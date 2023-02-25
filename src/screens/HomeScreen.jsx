@@ -1,9 +1,9 @@
 import React from "react";
 import Hero from "../components/Hero";
-import Partners from "../components/Partners.jsx";
+// import Partners from "../components/Partners.jsx";
 import PreFooter from "./PreFooter.jsx";
-import Gallery from "../components/Gallery";
-import Videos from "../components/Videos";
+// import Gallery from "../components/Gallery";
+// import Videos from "../components/Videos";
 const HomeScreen = () => {
   return (
     <div>
