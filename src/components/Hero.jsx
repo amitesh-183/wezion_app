@@ -32,11 +32,14 @@ const Hero = () => {
           </div>
           {/* Socials */}
           <div className="py-8 flex justify-center lg:gap-6 gap-2 lg:justify-start">
-            <a href="/">
+            <a href="https://www.instagram.com/wezion5/">
               <ion-icon size="large" name="logo-instagram"></ion-icon>
             </a>
-            <a href="/">
+            <a href="https://www.facebook.com/profile.php?id=100077670439729">
               <ion-icon size="large" name="logo-facebook"></ion-icon>
+            </a>
+            <a href="https://twitter.com/Wezion5">
+              <ion-icon size="large" name="logo-twitter"></ion-icon>
             </a>
           </div>
         </div>
