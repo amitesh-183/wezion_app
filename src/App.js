@@ -24,7 +24,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
-        {/* <Route path="/logout" element={<Logout */}
+        {/* <Route path="/logout" element={<Logout />} /> */}
       </Routes>
       <Footer />
     </Router>
