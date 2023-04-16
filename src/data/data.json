@@ -1,0 +1,19 @@
+{
+  "videos": [
+    {
+      "image": "img/thumbnail5.webp",
+      "link": "https://youtu.be/xWUT6zA7ZGU",
+      "title": "An unplanned trip | Wezion"
+    },
+    {
+      "image": "img/vande.jpg",
+      "link": "https://youtu.be/mZ0JspCj7QA",
+      "title": "POHA KHANE GYE RAIPUR"
+    },
+    {
+      "image": "img/thumbnail1.webp",
+      "link": "https://youtu.be/Cf5FAQ6K7Cw",
+      "title": "Cycle ride after 10 days lockdown!!!"
+    }
+  ]
+}
